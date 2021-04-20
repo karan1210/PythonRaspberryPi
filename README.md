@@ -25,4 +25,4 @@ Step:5
 Now use python Telegram Bot Raspberry Pi.py  command to toggle the LED with telegram.
 
 Lessons learnt and future work
-For future work, I want to connect different biomedical machines instead of LEDs and operate it with telegram Bot. 
+For future work, Person can connect different biomedical machines instead of LEDs and operate it with telegram Bot. 
